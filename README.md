@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/Jakarin-Jojo/demo-pyci.svg?branch=master)](https://travis-ci.com/Jakarin-Jojo/demo-pyci)  
+[![codecov](https://codecov.io/gh/Jakarin-Jojo/demo-pyci/branch/master/graph/badge.svg?token=1LBXMSQMCF)](https://codecov.io/gh/Jakarin-Jojo/demo-pyci)  
 Continuous Integration Demo
 ============================
 
